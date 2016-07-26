@@ -2,4 +2,3 @@ bower_components
 .tmp
 coverage
 node_modules
-lib
